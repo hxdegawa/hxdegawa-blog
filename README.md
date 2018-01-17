@@ -1,0 +1,2 @@
+# hxdegawa-blog
+my blog
